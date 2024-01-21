@@ -1,2 +1,0 @@
-#さーもんウェブ
-Github Pages
